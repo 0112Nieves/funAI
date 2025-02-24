@@ -1,0 +1,12 @@
+[submodule "submodules/arkanoid"]
+	path = submodules/arkanoid
+	url = https://github.com/0112Nieves/arkanoid.git
+[submodule "submodules/racing_car"]
+	path = submodules/racing_car
+	url = https://github.com/0112Nieves/racing_car.git
+[submodule "submodules/TankMan"]
+	path = submodules/TankMan
+	url = https://github.com/0112Nieves/TankMan.git
+[submodule "submodules/swimming_squid"]
+	path = submodules/swimming_squid
+	url = https://github.com/0112Nieves/swimming_squid.git
